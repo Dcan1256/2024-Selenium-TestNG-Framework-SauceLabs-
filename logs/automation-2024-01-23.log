@@ -1,0 +1,46 @@
+18:28:46.012 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+18:28:46.016 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+18:28:46.020 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+18:28:46.020 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+18:28:46.020 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+18:28:46.023 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+18:28:48.388 [main] INFO  testCases.TC_002_DDLoginTest - *** TC_002_DDLoginTest Starting --> Trying to logging in with correct credentials ***
+18:28:48.389 [main] DEBUG testCases.TC_002_DDLoginTest - application logs....   
+18:28:48.401 [main] INFO  testCases.TC_002_DDLoginTest - filling the username and password then clicking to the login button
+18:28:48.569 [main] INFO  testCases.TC_002_DDLoginTest - checking login status
+18:28:48.570 [main] INFO  testCases.TC_002_DDLoginTest - Valid Data logged in
+18:28:48.592 [main] INFO  testCases.TC_002_DDLoginTest - *** TC_002_DDLoginTest Finished !!! ***
+18:28:50.740 [main] INFO  testCases.TC_002_DDLoginTest - *** TC_002_DDLoginTest Starting --> Trying to logging in with correct credentials ***
+18:28:50.740 [main] DEBUG testCases.TC_002_DDLoginTest - application logs....   
+18:28:50.740 [main] INFO  testCases.TC_002_DDLoginTest - filling the username and password then clicking to the login button
+18:28:50.888 [main] INFO  testCases.TC_002_DDLoginTest - checking login status
+18:28:50.888 [main] INFO  testCases.TC_002_DDLoginTest - invalid data not logged in 
+18:28:50.914 [main] INFO  testCases.TC_002_DDLoginTest - *** TC_002_DDLoginTest Finished !!! ***
+18:28:53.240 [main] INFO  testCases.TC_002_DDLoginTest - *** TC_002_DDLoginTest Starting --> Trying to logging in with correct credentials ***
+18:28:53.240 [main] DEBUG testCases.TC_002_DDLoginTest - application logs....   
+18:28:53.241 [main] INFO  testCases.TC_002_DDLoginTest - filling the username and password then clicking to the login button
+18:28:53.403 [main] INFO  testCases.TC_002_DDLoginTest - checking login status
+18:28:53.403 [main] INFO  testCases.TC_002_DDLoginTest - Valid Data logged in
+18:28:53.426 [main] INFO  testCases.TC_002_DDLoginTest - *** TC_002_DDLoginTest Finished !!! ***
+18:28:55.429 [main] INFO  testCases.TC_002_DDLoginTest - *** TC_002_DDLoginTest Starting --> Trying to logging in with correct credentials ***
+18:28:55.429 [main] DEBUG testCases.TC_002_DDLoginTest - application logs....   
+18:28:55.430 [main] INFO  testCases.TC_002_DDLoginTest - filling the username and password then clicking to the login button
+18:28:55.589 [main] INFO  testCases.TC_002_DDLoginTest - checking login status
+18:28:55.589 [main] INFO  testCases.TC_002_DDLoginTest - Valid Data logged in
+18:28:55.609 [main] INFO  testCases.TC_002_DDLoginTest - *** TC_002_DDLoginTest Finished !!! ***
+18:28:57.752 [main] INFO  testCases.TC_002_DDLoginTest - *** TC_002_DDLoginTest Starting --> Trying to logging in with correct credentials ***
+18:28:57.753 [main] DEBUG testCases.TC_002_DDLoginTest - application logs....   
+18:28:57.753 [main] INFO  testCases.TC_002_DDLoginTest - filling the username and password then clicking to the login button
+18:28:57.922 [main] INFO  testCases.TC_002_DDLoginTest - checking login status
+18:28:57.922 [main] INFO  testCases.TC_002_DDLoginTest - Valid Data logged in
+18:28:57.941 [main] INFO  testCases.TC_002_DDLoginTest - *** TC_002_DDLoginTest Finished !!! ***
+18:29:00.334 [main] INFO  testCases.TC_002_DDLoginTest - *** TC_002_DDLoginTest Starting --> Trying to logging in with correct credentials ***
+18:29:00.335 [main] DEBUG testCases.TC_002_DDLoginTest - application logs....   
+18:29:00.335 [main] INFO  testCases.TC_002_DDLoginTest - filling the username and password then clicking to the login button
+18:29:00.467 [main] INFO  testCases.TC_002_DDLoginTest - checking login status
+18:29:00.468 [main] INFO  testCases.TC_002_DDLoginTest - *** TC_002_DDLoginTest Finished !!! ***
+18:29:02.582 [main] INFO  testCases.TC_002_DDLoginTest - *** TC_002_DDLoginTest Starting --> Trying to logging in with correct credentials ***
+18:29:02.582 [main] DEBUG testCases.TC_002_DDLoginTest - application logs....   
+18:29:02.582 [main] INFO  testCases.TC_002_DDLoginTest - filling the username and password then clicking to the login button
+18:29:02.692 [main] INFO  testCases.TC_002_DDLoginTest - checking login status
+18:29:02.692 [main] INFO  testCases.TC_002_DDLoginTest - *** TC_002_DDLoginTest Finished !!! ***

@@ -1,0 +1,49 @@
+18:36:40.222 [main] INFO  testCases.TC_002_DDLoginTest - *** TC_002_DDLoginTest Finished !!! ***
+18:36:42.303 [main] INFO  testCases.TC_002_DDLoginTest - *** TC_002_DDLoginTest Starting --> Trying to logging in with correct credentials ***
+18:36:42.304 [main] DEBUG testCases.TC_002_DDLoginTest - application logs....   
+18:36:42.304 [main] INFO  testCases.TC_002_DDLoginTest - filling the username and password then clicking to the login button
+18:36:42.416 [main] INFO  testCases.TC_002_DDLoginTest - checking login status
+18:36:42.416 [main] INFO  testCases.TC_002_DDLoginTest - *** TC_002_DDLoginTest Finished !!! ***
+18:36:44.741 [main] INFO  testCases.TC_002_DDLoginTest - *** TC_002_DDLoginTest Starting --> Trying to logging in with correct credentials ***
+18:36:44.741 [main] DEBUG testCases.TC_002_DDLoginTest - application logs....   
+18:36:44.742 [main] INFO  testCases.TC_002_DDLoginTest - filling the username and password then clicking to the login button
+18:36:44.869 [main] INFO  testCases.TC_002_DDLoginTest - checking login status
+18:36:44.869 [main] INFO  testCases.TC_002_DDLoginTest - *** TC_002_DDLoginTest Finished !!! ***
+18:36:46.842 [main] INFO  testCases.TC_002_DDLoginTest - *** TC_002_DDLoginTest Starting --> Trying to logging in with correct credentials ***
+18:36:46.843 [main] DEBUG testCases.TC_002_DDLoginTest - application logs....   
+18:36:46.843 [main] INFO  testCases.TC_002_DDLoginTest - filling the username and password then clicking to the login button
+18:36:46.984 [main] INFO  testCases.TC_002_DDLoginTest - checking login status
+18:36:46.984 [main] INFO  testCases.TC_002_DDLoginTest - *** TC_002_DDLoginTest Finished !!! ***
+18:36:49.227 [main] INFO  testCases.TC_002_DDLoginTest - *** TC_002_DDLoginTest Starting --> Trying to logging in with correct credentials ***
+18:36:49.227 [main] DEBUG testCases.TC_002_DDLoginTest - application logs....   
+18:36:49.227 [main] INFO  testCases.TC_002_DDLoginTest - filling the username and password then clicking to the login button
+18:36:49.354 [main] INFO  testCases.TC_002_DDLoginTest - checking login status
+18:36:49.355 [main] INFO  testCases.TC_002_DDLoginTest - *** TC_002_DDLoginTest Finished !!! ***
+18:36:51.546 [main] INFO  testCases.TC_002_DDLoginTest - *** TC_002_DDLoginTest Starting --> Trying to logging in with correct credentials ***
+18:36:51.546 [main] DEBUG testCases.TC_002_DDLoginTest - application logs....   
+18:36:51.546 [main] INFO  testCases.TC_002_DDLoginTest - filling the username and password then clicking to the login button
+18:36:51.653 [main] INFO  testCases.TC_002_DDLoginTest - checking login status
+18:36:51.653 [main] INFO  testCases.TC_002_DDLoginTest - *** TC_002_DDLoginTest Finished !!! ***
+18:36:54.074 [main] INFO  testCases.TC_002_DDLoginTest - *** TC_002_DDLoginTest Starting --> Trying to logging in with correct credentials ***
+18:36:54.075 [main] DEBUG testCases.TC_002_DDLoginTest - application logs....   
+18:36:54.075 [main] INFO  testCases.TC_002_DDLoginTest - filling the username and password then clicking to the login button
+18:36:54.185 [main] INFO  testCases.TC_002_DDLoginTest - checking login status
+18:36:54.185 [main] INFO  testCases.TC_002_DDLoginTest - *** TC_002_DDLoginTest Finished !!! ***
+18:36:56.227 [main] INFO  testCases.TC_002_DDLoginTest - *** TC_002_DDLoginTest Starting --> Trying to logging in with correct credentials ***
+18:36:56.227 [main] DEBUG testCases.TC_002_DDLoginTest - application logs....   
+18:36:56.227 [main] INFO  testCases.TC_002_DDLoginTest - filling the username and password then clicking to the login button
+18:36:56.341 [main] INFO  testCases.TC_002_DDLoginTest - checking login status
+18:36:56.341 [main] INFO  testCases.TC_002_DDLoginTest - *** TC_002_DDLoginTest Finished !!! ***
+18:36:58.890 [main] INFO  testCases.TC_001_LoginTest - *** TC_001_LoginTest Starting --> Trying to logging in with correct credentials ***
+18:36:58.890 [main] DEBUG testCases.TC_001_LoginTest - application logs....   
+18:36:58.890 [main] INFO  testCases.TC_001_LoginTest - filling the username and password then clicking to the login button
+18:36:59.092 [main] INFO  testCases.TC_001_LoginTest - checking login status
+18:36:59.126 [main] INFO  testCases.TC_001_LoginTest - Test Passed !!!
+18:36:59.126 [main] INFO  testCases.TC_001_LoginTest - *** TC_001_LoginTest Finished !!! ***
+18:37:03.406 [main] INFO  testCases.TC_001_LoginTest - *** TC_001_LoginTest Starting --> Trying to logging in with correct credentials ***
+18:37:03.406 [main] DEBUG testCases.TC_001_LoginTest - application logs....   
+18:37:03.406 [main] INFO  testCases.TC_001_LoginTest - filling the username and password then clicking to the login button
+18:37:03.576 [main] INFO  testCases.TC_001_LoginTest - checking login status
+18:37:03.608 [main] INFO  testCases.TC_001_LoginTest - Test Passed !!!
+18:37:03.608 [main] INFO  testCases.TC_001_LoginTest - *** TC_001_LoginTest Finished !!! ***
+18:37:08.609 [main] INFO  testCases.TC_001_LoginTest - *** TC_001_LoginTest Starting --> Trying to logging in with correct credentials ***
