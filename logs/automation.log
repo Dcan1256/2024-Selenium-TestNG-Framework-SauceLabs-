@@ -1,5 +1,5 @@
-18:37:08.610 [main] DEBUG testCases.TC_001_LoginTest - application logs....   
-18:37:08.611 [main] INFO  testCases.TC_001_LoginTest - filling the username and password then clicking to the login button
-18:37:08.913 [main] INFO  testCases.TC_001_LoginTest - checking login status
-18:37:08.932 [main] INFO  testCases.TC_001_LoginTest - Test Passed !!!
-18:37:08.932 [main] INFO  testCases.TC_001_LoginTest - *** TC_001_LoginTest Finished !!! ***
+18:30:36.613 [main] DEBUG testCases.TC_001_LoginTest - application logs....   
+18:30:36.615 [main] INFO  testCases.TC_001_LoginTest - filling the username and password then clicking to the login button
+18:30:36.916 [main] INFO  testCases.TC_001_LoginTest - checking login status
+18:30:36.933 [main] INFO  testCases.TC_001_LoginTest - Test Passed !!!
+18:30:36.933 [main] INFO  testCases.TC_001_LoginTest - *** TC_001_LoginTest Finished !!! ***
